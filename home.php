@@ -13,7 +13,8 @@
         <img src="logo.jpg"
         alt="image">
     <hr />
-    		<a href="C:\xampp\htdocs\ThesisGroup3\customer"
+    <h1 welcome/>		
+    <a href="C:\xampp\htdocs\ThesisGroup3\customer"
     		target="_blank"><h3>Monitor</h3></a>
         <a href="customer.php"
         target="_blank"><h3>Customer</h3></a>
